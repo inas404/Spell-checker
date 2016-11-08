@@ -1,0 +1,2 @@
+This is a spelk shecker I built
+It reada each line and correvts it so that it will be free of erroes
