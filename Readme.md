@@ -16,4 +16,4 @@ This is a spelk shecker I built
 It reada each line and correvts it so that it will be free of erroes
 ```
 ##### Output:
-![Screenshot](/Spell-checker/Screenshot.png?raw=true "Screenshot")
+![Screenshot](https://github.com/inas404/Spell-checker/blob/master/Screenshot.png?raw=true "Screenshot")
